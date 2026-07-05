@@ -3315,7 +3315,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/vercel/vercel-plugin.git",
-        "sha": "5f3f0ad7931ad49d6a4c6ed43ab4bf4781a69f6d"
+        "sha": "c9b1d8ff9351d90d20c0cf1e3d051d0ee100541d"
       },
       "homepage": "https://github.com/vercel/vercel-plugin"
     },
